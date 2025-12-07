@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Flash Chat",
+  "description": "A fast, responsive, and aesthetic chatbot powered by the Gemini 2.5 Flash model using the latest Google GenAI SDK.",
+  "requestFramePermissions": []
+}
